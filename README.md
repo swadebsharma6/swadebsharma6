@@ -2,7 +2,8 @@
 
 
 
-<img src ="(https://user-images.githubusercontent.com/108362684/212280175-675eb937-d09e-40c3-ad1b-bec0556ff5c2.png)"/>
+<img src ="![20230113_143720_0010](https://user-images.githubusercontent.com/108362684/212281414-70bf82d4-919c-47dd-a999-85479f748a2e.png)
+"/>
 
 
 
