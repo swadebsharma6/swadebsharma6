@@ -1,6 +1,6 @@
 ![20230113_143720_0010](https://i.ibb.co/B2ksgbh/Colorful-Neon-Modern-Gaming-Channel-You-Tube-Channel-Art.gif)
 
-## Status
+## Current Status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swadebsharma6&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
