@@ -10,9 +10,7 @@
 
 ## Top Language
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swadebsharma6&theme=aura)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadebsharma6&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swadebsharma6&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swadebsharma6&theme=aura)
 
 ## Current overview
 
