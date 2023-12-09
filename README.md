@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on open source projects ...
 - 🤔 my Future goal is become a full stack web-developer onces.
 
-<!---
+<!-- -
 swadebsharma6/swadebsharma6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+- -->
