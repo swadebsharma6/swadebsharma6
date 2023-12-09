@@ -8,6 +8,10 @@
 
 ![20230113_143720_0010](https://i.ibb.co/HNmLzqy/Timeline-Visual-Charts-Presentation-in-Aquamarine-Black-White-Simple-Style.gif)
 
+## Top Language
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swadebsharma6&theme=aura_dark)
+
 ## Current overview
 
 - 👋 Hi, I’m swadeb deb sharma
